@@ -1,0 +1,17 @@
+{
+    "containerResultPath":  "C:\\ProgramData\\BcContainerHelper",
+    "securePassword":  "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000f27e25e7710d774e875333aab28eeaf20000000002000000000003660000c00000001000000004813c8d65caa659a6bc6f3ed883f7bf0000000004800000a0000000100000006c2b398c956d0e5a6c0cc08f15d2a5bc10000000d3b94eeb04660f2cc014162dea1b9f09140000003227cfe6565d496d708068f1fd33471715e32320",
+    "userName":  "admin",
+    "userPassword":  "admin",
+    "companyName":  "CRONUS UK Ltd.",
+    "testSuiteName":  "",
+    "vmUserName":  "",
+    "vmSecurePassword":  "",
+    "remoteContainerName":  "",
+    "dockerHost":  "",
+    "newPSSessionOptions":  "",
+    "testRunnerServiceUrl":  "http://CLUBAPP-GB-V22SSL:7048/BC/ODataV4/TestRunner?company=CRONUS UK Ltd.\u0026tenant=default",
+    "codeCoveragePath":  ".altestrunner//codecoverage.json",
+    "culture":  "en-US",
+    "launchConfigName":  "V21SSL"
+}

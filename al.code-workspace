@@ -1,0 +1,17 @@
+{
+    "folders":  [
+                    {
+                        "path":  "app"
+                    },
+                    {
+                        "path":  "app.test"
+                    }
+                ],
+    "settings": {
+        "al-test-runner.automaticPublishing": true,
+        "al-test-runner.enableCodeCoverage": true,
+        "al-test-runner.enableCodeLens": true,
+        "al-test-runner.publishBeforeTest": "Publish",
+        "al-test-runner.testFolderName": "app.test"
+                }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "93cfa0c8-0e39-4cfb-a472-9b47e3eb2f6a",
+  "name": "HWM Catering Management",
+  "publisher": "Highway Mobile LLC",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "0557fa5c-4779-49fe-bf44-64014c562696",
+      "name": "HWM Catering Management",
+      "publisher": "Highway Mobile LLC",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "name": "Tests-TestLibraries",
+      "publisher": "Microsoft",
+      "version": "22.0.0.0"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "publisher": "Microsoft",
+      "name": "Library Assert",
+      "version": "22.0.0.0"
+    },
+    {
+      "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
+      "publisher": "Microsoft",
+      "name": "Any",
+      "version": "22.0.0.0"
+    },
+    {
+      "id": "23de40a6-dfe8-4f80-80db-d70f83ce8caf",
+      "publisher": "Microsoft",
+      "name": "Test Runner",
+      "version": "22.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 80000,
+      "to": 99999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "country": "us",
+  "appSourceCopMandatoryAffixes": [
+    "HWM"
+  ],
+  "appFolders": ["app"],
+  "testFolders": ["app.test"],
+  "bcptTestFolders": [],
+  "appDependencyProbingPaths": [
+    {
+      "repo": "HIGHWAY-MOBILE-SIA/hwm-helpers-appsource",
+      "release_status": "latestBuild",
+      "authTokenSecret": "HWM_ALL_RELEASES"
+    }
+  ],
+  "buildNumber": 4,
+  "projectName": "HWM Catering Management",
+  "projectTestName": "HWM Catering Management Test App"
+}

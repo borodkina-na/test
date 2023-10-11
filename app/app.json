@@ -1,0 +1,53 @@
+{
+    "id": "0557fa5c-4779-49fe-bf44-64014c562696",
+    "name": "Highway Catering Management",
+    "publisher": "Highway Mobile LLC",
+    "version": "1.0.2.0",
+    "brief": "HWM Catering Management app",
+    "description": "HWM Catering Management app",
+    "privacyStatement": "https://www.highwaymobi.com/cateringapp/privacyStatement",
+    "EULA": "https://www.highwaymobi.com/cateringapp/EULA",
+    "help": "https://www.highwaymobi.com/cateringapp/help",
+    "url": "https://www.highwaymobi.com/cateringapp",
+    "logo": "",
+    "contextSensitiveHelpUrl": "https://www.highwaymobi.com/cateringapp/contextSensitiveHelpUrl",
+    "dependencies": [
+      {
+        "id": "c2e19967-6920-413c-9560-8a327ca984d5",
+        "name": "Highway Helper ToolKit",
+        "publisher": "Highway Mobile LLC",
+        "version": "1.0.5.0"
+      }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "22.0.0.0",
+    "idRanges": [
+      {
+        "from": 50000,
+        "to": 50999
+      }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "target": "OnPrem",
+    "supportedLocales": [
+        "en-US"
+    ],
+    "runtime": "11.0",
+    "features": [
+        "TranslationFile",
+        "GenerateCaptions"
+    ],
+    "suppressWarnings": [
+        "AA0217",
+        "AS0103",
+        "AS0053"
+    ],
+    "preprocessorSymbols": [
+        "test"
+    ]
+  }

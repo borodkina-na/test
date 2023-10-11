@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "V21SSL",
+            "type": "al",
+            "request": "launch",
+            "server": "https://OnPrem-22-US/",
+            "serverInstance": "BC",
+            "authentication": "UserPassword",
+            "startupObjectId": 130451,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "default",
+            "schemaUpdateMode": "ForceSync"
+        },
+        {
+            "name": "Launch Docker Test Debug",
+            "type": "al",
+            "request": "attach",
+            "server": "https://OnPrem-22-US/",
+            "serverInstance": "BC",
+            "authentication": "UserPassword",
+            "breakOnError": "All",
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "default"
+        }
+    ]
+}
